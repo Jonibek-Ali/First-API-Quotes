@@ -1,6 +1,4 @@
-{
-    "version": 1,
-    "quotes-uz": [
+[
   {"text": "Harakat qilgan odam, hech qachon yutqazmaydi.", "author": "Nozimiy"},
   {"text": "Bugun qilgan ishingiz, ertangi muvaffaqiyatingiz poydevori.", "author": "Uchqun"},
   {"text": "Muvaffaqiyat - bu sabr va tirishqoqlik natijasidir.", "author": "Motivatsion fikr"},
@@ -125,4 +123,3 @@
   {"text": "Orzularingiz sari yo‘lda hech qanday to‘siq sizni to‘xtatmasin.", "author": "Uchqun"},
   {"text": "Muvaffaqiyat sari yo‘lda qat’iy bo‘ling va taslim bo‘lmang.", "author": "Motivatsion fikr"}
 ]
-}
